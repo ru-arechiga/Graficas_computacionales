@@ -7,7 +7,7 @@
 using namespace std;
 
 int main(){
-  int x1, x2, y1 ,y2, dx, dy, x, y;
+  int x1, x2, y1, y2, dx, dy, x, y;
   
     cout<<"Introduce el valor X del PRIMER punto: ";
     cin>>x1;
